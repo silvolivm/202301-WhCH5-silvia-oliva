@@ -16,7 +16,7 @@ export class Header extends Component {
       <div class="header__logo">
         <img src="https://upload.wikimedia.org/wikipedia/commons/9/98/International_Pok%C3%A9mon_logo.svg" alt="Pokemon">
       </div>
-      <div class="header__menu">
+      <div class="header__main">
       </div>
       </header>
     `;
