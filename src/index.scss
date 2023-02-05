@@ -1,0 +1,25 @@
+* {
+  box-sizing: border-box;
+}
+html,
+body {
+  min-height: 100vh;
+}
+
+body {
+  padding: 0;
+  background-color: rgb(6, 125, 230);
+}
+.app-container {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+menu {
+  margin: 1rem;
+}
+html,
+body {
+  min-height: 100vh;
+}

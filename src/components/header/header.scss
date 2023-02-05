@@ -1,0 +1,44 @@
+.header {
+  display: flex;
+  flex-direction: column;
+  color: rgb(47, 49, 146);
+    justify-content: center;
+  align-items: center;
+  background-color: lightblue;
+  position: relative;
+  padding: 1rem;
+  min-height: 20vh;
+  &__logo {
+    padding: 1rem;
+  }
+}
+
+
+/*#root{
+  background-color: rgb(52, 35, 153);
+}
+.header {
+  background-color: rgb(52, 35, 153);
+  color: rgb(54, 131, 43);
+  position: relative;
+  padding: 1rem;
+  min-height: 20vh;
+}
+
+.main-title {
+  background-color: black;
+  display: flex;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+/*.button {
+  display: none;
+  padding: 20px;
+  background: #024959;
+  font-size: 20px;
+  color: #fff;
+  cursor: pointer;
+  position: fixed;
+  bottom: 20px;
+  right: 20px;
+}
